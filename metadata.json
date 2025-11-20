@@ -1,0 +1,5 @@
+{
+  "name": "SkyTrack Analytics",
+  "description": "A real-time flight traffic dashboard tracking daily flight numbers, cancellations, and airline performance using Gemini 2.5 Flash for data simulation and analysis.",
+  "requestFramePermissions": []
+}
